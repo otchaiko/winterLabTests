@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Onliner suite">
+    <test name="Onliner actions tests">
+        <classes>
+            <class name="ExchangeRateTest"/>
+            <class name="AuthTest"/>
+        </classes>
+    </test>
+</suite>
